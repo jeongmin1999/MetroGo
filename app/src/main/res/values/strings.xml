@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MetroGo</string>
+    <string name="login_email">Email Address</string>
+    <string name="login_password">PassWord</string>
+    <string name="find_acc">아이디 / 비밀번호 찾기 ></string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="login_text">로그인</string>
+    <string name="signup_text">회원가입</string>
+</resources>
